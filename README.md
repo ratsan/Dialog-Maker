@@ -33,8 +33,9 @@
   <b>Premium Dialogs</b>
 </h2>
 <div align="center">
-  <img src="./images/premium_dialog_demo_1.webp" />
-  <img src="./images/premium_dialog_demo_2.webp" />
-  <img src="./images/premium_dialog_demo_3.webp" />
-  <img src="./images/premium_dialog_demo_4.webp" />
+  <img width="400rem" height="auto" src="./images/premium_dialog_demo_1.webp" />
+  <img width="400rem" height="auto" src="./images/premium_dialog_demo_2.webp" />
+  <br />
+  <img width="400rem" height="auto" src="./images/premium_dialog_demo_3.webp" />
+  <img width="400rem" height="auto" src="./images/premium_dialog_demo_4.webp" />
 </div>
