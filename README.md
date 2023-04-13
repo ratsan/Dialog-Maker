@@ -20,11 +20,11 @@
 </h1>
 <div align="center">
 
-|      Dialog Type      | Pricing |  Variants  | Authenticity | How to Acquire |
-|-----------------------|---------|------------|--------------|----------------|
-| Premium Dialog        | Paid    | ∞          | Official     | Purchase       |
-| Classic Dialog        | Free    | 1          | Official     | From App       |
-| Logo Dialog           | Free    | 1          | Official     | From App       |
-| Image Dialog          | Free    | 1          | Official     | From App       |
+|      Dialog Type      | Pricing |  Variants  | How to Acquire |
+|-----------------------|---------|------------|----------------|
+| Premium Dialog        | Paid    | ∞          | Purchase       |
+| Classic Dialog        | Free    | 1          | From App       |
+| Logo Dialog           | Free    | 1          | From App       |
+| Image Dialog          | Free    | 1          | From App       |
 
 </div>
