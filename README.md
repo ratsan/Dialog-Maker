@@ -15,3 +15,16 @@
   <a href="https://github.com/ratsan/Dialog-Maker/pulls"> <img src="https://img.shields.io/badge/Contributions-Open-yellow?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAARqSURBVHic7ZvNa11FGMZ/bxJjPzQNpoKi0WoXRaogrS26MfYDxWq14KaCuHIhooJu1H9AxU0RFaQgRYugoESMaDVKExBUrNKNsSVImraCVG1rrYoN8rg4701OT+bcxJsz5yTmPBDuzDvvzH3myXzPXKhRo0aNRQybyUGSAb3ApfHpFIoTwHEzUzOnXAEkLQWeBB4GriyWW2k4BrwK7DKzv0IOQQEkrQQ+Am6Kx61UfA3caWa/ZhOmCeBN/jNgk5tGgJeBI8BEPI6F4gJgFfAYcJ3bBs3s9hlzStqhKbwraUk8nnEhaYmk/lR9ts8m01vufFLSJSXwjApJPZJOeZ3ezKa3BfI0msyQmZ2MSy8+vN8Pe3RtNj0kQJd//haLVAU45Z8rsgkhARYVagGqJlA1agGqJlA1OpqkrZf0fGlM4mJ9XkIzAW7wv/81mglwDvijLCKRsRzonJWnpDFfNu6Jy6k8SNrjdRrLpi36QbAWoGoCVaMWoGoCMLlnr4RL5QJIupfkBPfDKr6/cgGAB0h4TDusKAOVCuAHsLd59PMqOEQVQFKbpDVe0RCuB1Z6eH8m71VlHMhGE8DJDwCHgOdy3DalwpMCSLoPGAcOSLo8FkeIJIDfKr0PbHPTxTmuDQGOm9loyt44l1wLDEm6oniWOZjrXkDSMkmDqbP4YUkXBfzaJP3iPm9k0kzSS6kyxiRdM4c6lbMXkLScpNlvddMwcJeZnQ243wj0ePi8/u8Xmo8DL7ppFbBf0rVF8oUCBfDKfwBsdtM+kvu4UOUhp/834CI8Aexy09UkIqwuhnEOWukCfgX1RarJDki6cIY8A3nNMuD7Qqrso5L+0211GV1gA3Czh08DD5rZ300IdQC3enTafz+Ap4CDHu4FdrTIcxqKEuBLYNDD3UB/aOBLYR1TI/1Qs4J9j7CbZMwAOAy83TLTDAoRwMwmgO0kUx9AH/CxpK6cLOn+P5RXrqR24DXgITcdBjab2c9zItwMc5kGJXXq/OvoAwrcMEva5+mjoXLcp13S66myRtTioqjZGBByblkAz9+p5F1BA99I6kmld0g642m7c8pol7Q3VcZBSS2/USpjEJyEmZ0DdgLvuGkd8GzKZSNTK8O8AfARkl0iwLfAlljNPspS2MeE+4G9bhpPJc+m/x8B/iEZXLeG3vZEw1y7QKC8rkz8Uy//+xnydfsgWASH3C7Q7GKkEJjZmRSRTuAWjzad/83sdExeDZR9ILIBWObh2SyAoiN6C8jgBPAncJaphVOlKFUAMxuV1AtMmNnvZX53HspuAcy3l2fz4VS4UtQCBGyNaau7TCKR0diPTHv7GBJgxD/70mv4hQolL9/7PPrdbDLck9qE9GthP5ZeKum9VH3uzvrkPZcfBLa46RDwCvADC+u5/GrgUWCN2z4xszuyjnk/mOghuazcGIthyfgK2BaagoOzgO+++oBngKNxuUXFOPA00Je3/pjxR1MASm5mLiuQWBn4ycx+rJpEjRo1asxr/As8TL5578cVOwAAAABJRU5ErkJggg==" /> </a>
 </div>
 
+<h1>
+  <b>Dialog Types</b>
+</h1>
+<div align="center">
+
+|      Dialog Type      | Pricing |  Variants  | How to Acquire |
+|-----------------------|---------|------------|----------------|
+| Premium Dialog        | Paid    | ∞          | Purchase       |
+| Classic Dialog        | Free    | 1          | From App       |
+| Logo Dialog           | Free    | 1          | From App       |
+| Image Dialog          | Free    | 1          | From App       |
+
+</div>
