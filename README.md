@@ -38,4 +38,6 @@
   <br />
   <img width="400rem" height="auto" src="./images/premium_dialog_demo_3.webp" />
   <img width="400rem" height="auto" src="./images/premium_dialog_demo_4.webp" />
+  <br />
+  <img width="800rem" height="auto" src="./images/premium_dialog_demo_5.webp" />
 </div>
