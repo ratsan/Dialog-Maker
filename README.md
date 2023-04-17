@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="210rem" height="auto" src="./images/icon-squircle.webp" alt="Logo" border="0">
+  <img width="210rem" height="auto" src="./images/icon-squircle.png" alt="Logo" border="0">
 </div>
 <h1 align="center">
   <b>Dialog Maker</b>
