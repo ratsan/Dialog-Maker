@@ -22,22 +22,40 @@
 
 |      Dialog Type      | Pricing |  Variants  | How to Acquire |
 |-----------------------|---------|------------|----------------|
-| Premium Dialog        | Paid    | ∞          | Purchase       |
+| Premium Dialog        | Paid    | ∞          | [Purchase](https://rebrandly.ly/premium-dialog) |
 | Classic Dialog        | Free    | 1          | From App       |
 | Logo Dialog           | Free    | 1          | From App       |
 | Image Dialog          | Free    | 1          | From App       |
 
 </div>
 
-<h2>
-  <b>Premium Dialogs</b>
-</h2>
+
+<h1>
+  <b>Updates</b>
+</h1>
+<div align="start">
+
+Join our telegram channel
+- Get updates related to the app
+- Get updates about latest custom dialog releases
+
+<a href="https://t.me/dialog_maker"><img width="auto" height="40rem" src="https://img.shields.io/badge/-Telegram-red?color=2E9DD2&logo=telegram" /></a>
+
+</div>
+
+
+<h1>
+  <b>License</b>
+</h1>
 <div align="center">
-  <img width="400rem" height="auto" src="./images/premium_dialog_demo_1.webp" />
-  <img width="400rem" height="auto" src="./images/premium_dialog_demo_2.webp" />
-  <br />
-  <img width="400rem" height="auto" src="./images/premium_dialog_demo_3.webp" />
-  <img width="400rem" height="auto" src="./images/premium_dialog_demo_4.webp" />
-  <br />
-  <img width="800rem" height="auto" src="./images/premium_dialog_demo_5.webp" />
+
+```
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+```
+
 </div>
