@@ -45,6 +45,28 @@ Join our telegram channel
 
 
 <h1>
+  <b>Bug Report</b>
+</h1>
+<div align="start">
+<p>To report a bug, go to the issues section of this repo and create a new issue regarding your findings. We will try our best to fix it in the next update!</p>
+
+<a href="https://github.com/ratsan/Dialog-Maker/issues/new/choose"><img width="auto" height="40rem" src="https://img.shields.io/badge/-Create Issue-lightgrey?style=for-the-badge&color=373E47&logo=github" /></a>
+
+</div>
+
+
+<h1>
+  <b>Share your Ideas</b>
+</h1>
+<div align="start">
+<p>You can share your ideas with us using the discussion from this repo. If your idea is relevant and gets voted by others, we will take a look!</p>
+
+<a href="https://github.com/ratsan/Dialog-Maker/discussions/1"><img width="auto" height="40rem" src="https://img.shields.io/badge/-Open Discussion-lightgrey?style=for-the-badge&color=373E47&logo=github" /></a>
+
+</div>
+
+
+<h1>
   <b>License</b>
 </h1>
 <div align="center">
