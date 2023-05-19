@@ -1,12 +1,13 @@
 {
-  "title": "Updates",
-  "message": "Dialog files has been updated",
-  "positiveBtn": "Awesome",
-  "negativeBtn": "",
-  "neutralBtn": "",
-  "positiveBtnLink": "",
-  "negativeBtnLink": "",
-  "neutralBtnLink": "",
-  "endDate": "2023-05-20 10:40",
-  "dateFormat": "yyyy-MM-dd HH:mm"
+  "TITLE": "Updates",
+  "MESSAGE": "Dialog files has been updated",
+  "POSITIVE_BUTTON": "Awesome",
+  "NEGATIVE_BUTTON": "",
+  "NEUTRAL_BUTTON": "",
+  "POSITIVE_BUTTON_LINK": "",
+  "NEGATIVE_BUTTON_LINK": "",
+  "NEUTRAL_BUTTON_LINK": "",
+  "END_DATE": "2023-05-20 10:40",
+  "DATE_FORMAT": "yyyy-MM-dd HH:mm",
+  "SHOW_ONCE": true
 }
